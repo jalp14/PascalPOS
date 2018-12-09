@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.3.14" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="42807.7575995139" ReportOptions.Description.Text="" ReportOptions.LastChange="42807.8640134722" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxShapeView Name="Shape3" Left="0" Top="377.953" Width="718.1107" Height="491.3389"/>
+    <TfrxReportTitle Name="ReportTitle1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="143.62214" Left="0" Top="18.89765" Width="718.1107">
+      <TfrxMemoView Name="Memo1" Left="3.77953" Top="0" Width="94.48825" Height="60.47248" Font.Charset="0" Font.Color="0" Font.Height="-16" Font.Name="Constantia" Font.Style="1" ParentFont="False" Text="PC Hardware Specialist"/>
+      <TfrxMemoView Name="Memo2" Left="3.77953" Top="71.81107" Width="98.26778" Height="60.47248" Text="5 Linccon Avenue,&#13;&#10;London,&#13;&#10;SW1E 5JL"/>
+      <TfrxMemoView Name="Memo3" Left="593.38621" Top="3.77953" Width="117.16543" Height="37.7953" Font.Charset="1" Font.Color="0" Font.Height="-27" Font.Name="Arial" Font.Style="1" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="Invoice"/>
+    </TfrxReportTitle>
+    <TfrxMemoView Name="Memo4" Left="15.11812" Top="200.31509" Width="94.48825" Height="18.89765" Font.Charset="1" Font.Color="0" Font.Height="-27" Font.Name="Arial" Font.Style="1" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="Bill To"/>
+    <TfrxMemoView Name="Memo5" Left="15.11812" Top="234.33086" Width="188.9765" Height="18.89765" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Arial" Font.Style="0" ParentFont="False" WordWrap="False" VAlign="vaCenter" Text="[CName]   [CSurname]">
+      <Formats>
+        <item/>
+        <item/>
+      </Formats>
+    </TfrxMemoView>
+    <TfrxMemoView Name="Memo7" Left="15.11812" Top="264.5671" Width="86.92919" Height="18.89765" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Arial" Font.Style="0" ParentFont="False" VAlign="vaCenter" Text="[CAddress]"/>
+    <TfrxMemoView Name="Memo8" Left="15.11812" Top="294.80334" Width="90.70872" Height="18.89765" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Arial" Font.Style="0" ParentFont="False" VAlign="vaCenter" Text="[CPostcode]"/>
+    <TfrxMemoView Name="Memo6" Left="15.11812" Top="321.26005" Width="90.70872" Height="18.89765" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-15" Font.Name="Arial" Font.Style="0" ParentFont="False" VAlign="vaCenter" Text="[CPhone]"/>
+    <TfrxShapeView Name="Shape1" Left="0" Top="377.953" Width="718.1107" Height="37.7953"/>
+    <TfrxMemoView Name="Memo9" Left="105.82684" Top="385.51206" Width="132.28355" Height="22.67718" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="Product Name"/>
+    <TfrxShapeView Name="Shape2" Left="343.93723" Top="377.953" Width="147.40167" Height="491.3389"/>
+    <TfrxShapeView Name="Shape4" Left="574.48856" Top="377.953" Width="143.62214" Height="491.3389"/>
+    <TfrxMemoView Name="Memo10" Left="355.27582" Top="385.51206" Width="132.28355" Height="22.67718" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="Unit Price"/>
+    <TfrxMemoView Name="Memo11" Left="498.89796" Top="385.51206" Width="68.03154" Height="22.67718" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="Quantity"/>
+    <TfrxMemoView Name="Memo12" Left="612.28386" Top="385.51206" Width="68.03154" Height="22.67718" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="Amount"/>
+    <TfrxMemoView Name="Memo13" Left="102.04731" Top="427.08689" Width="132.28355" Height="22.67718" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="[CProduct]"/>
+    <TfrxMemoView Name="Memo14" Left="355.27582" Top="427.08689" Width="132.28355" Height="22.67718" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="[CUnit]"/>
+    <TfrxMemoView Name="Memo15" Left="510.23655" Top="427.08689" Width="49.13389" Height="22.67718" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="[CQty]"/>
+    <TfrxMemoView Name="Memo16" Left="608.50433" Top="427.08689" Width="75.5906" Height="22.67718" AutoWidth="True" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" Text="[CAmount]"/>
+    <TfrxMemoView Name="Memo17" Left="487.55937" Top="888.18955" Width="94.48825" Height="18.89765" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="0" HAlign="haCenter" ParentFont="False" VAlign="vaCenter" Text="Subtotal"/>
+  </TfrxReportPage>
+</TfrxReport>
